@@ -9,7 +9,7 @@ Computer Laboratory, University of Cambridge, UK
 
 
 <p align="center">
-  <img width="1000" height="400" src="https://github.com/lodeguns/Elegans-AI-Artificial-Connectomic-Networks/imgs/artificialelegans.png?raw=true">
+  <img width="1000" height="400" src="./imgs/artificialelegans.png?raw=true">
 </p>
 
 
