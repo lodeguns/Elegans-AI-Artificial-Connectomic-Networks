@@ -14,7 +14,7 @@ This paper introduces Elegans-AI models, a class of neural networks that leverag
 </p>
 
 **Source Code Model Training, Testing**
-The code is distributed with the aim of facilitating research collaborations or R&D business partnerships.
+The Tensorfloe/Keras or Pytorch code is distributed under Apache License 2.0 with the aim of facilitating research collaborations or R&D business partnerships.
 [Request form](https://forms.gle/eXJXznsTt9AqfMTW9).
 
 
