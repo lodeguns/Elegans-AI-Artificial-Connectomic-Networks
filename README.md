@@ -1,11 +1,4 @@
 # Elegans-AI 
-
-
-<p align="center">
-  <img width="1000" height="400" src="./imgs/artificialelegans.png?raw=true">
-</p>
-
-
 This is the repository of the journal paper: 
 ### ElegansAI: how the connectome of a living organism could model artificial neural networks.
 Francesco Bardozzo, Andrea Terlizzi, Claudio Simoncini, Pietro Lio ́, Roberto Tagliaferri
@@ -28,6 +21,13 @@ plausible network patterns, the small-world characteristic, and learning outcome
 optimization in shaping the topology of artificial neural networks for improved learning performance.
 Keywords: Artificial connectomes, C.elegans connectome, Connectomic architectures, Deep connectomic networks, Deep neural
 network transformers, Echo-state transformers, Multi-dyadic motifs
+
+
+<p align="center">
+  <img width="1000" height="400" src="./imgs/artificialelegans.png?raw=true">
+</p>
+
+
 
 
 
