@@ -24,7 +24,7 @@ network transformers, Echo-state transformers, Multi-dyadic motifs
 
 
 <p align="center">
-  <img width="1000" height="400" src="./imgs/artificialelegans.png?raw=true">
+  <img width="980" height="400" src="./imgs/artificialelegans.png?raw=true">
 </p>
 
 
