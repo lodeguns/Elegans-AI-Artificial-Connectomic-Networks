@@ -10,7 +10,7 @@ This paper introduces Elegans-AI models, a class of neural networks that leverag
 
 
 <p align="center">
-  <img width="980" height="400" src="./imgs/artificialelegans.png?raw=true">
+  <img width="560" height="250" src="./imgs/artificialelegans.png?raw=true">
 </p>
 
 **Source Code Availability**
