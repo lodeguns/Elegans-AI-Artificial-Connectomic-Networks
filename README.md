@@ -1,6 +1,6 @@
 # Elegans-AI 
 This is the repository of the journal paper: 
-### ElegansAI: how the connectome of a living organism could model artificial neural networks.
+### Elegans-AI: how the connectome of a living organism could model artificial neural networks.
 Francesco Bardozzo, Andrea Terlizzi, Claudio Simoncini, Pietro Lio ́, Roberto Tagliaferri
 <br>Neurone Laboratory, University of Salerno, IT
 <br>Computer Laboratory, University of Cambridge, UK
@@ -13,7 +13,9 @@ This paper introduces Elegans-AI models, a class of neural networks that leverag
   <img width="980" height="400" src="./imgs/artificialelegans.png?raw=true">
 </p>
 
-
+**Source Code Model Training, Testing**
+The code is distributed with the aim of facilitating research collaborations or R&D business partnerships.
+[Request form](https://forms.gle/eXJXznsTt9AqfMTW9).
 
 
 
