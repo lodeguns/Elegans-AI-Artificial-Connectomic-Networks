@@ -23,14 +23,15 @@ If you are interested follow the [Request form](https://forms.gle/N2aKJN6HDzg5eL
 **How to cite this paper**
 
 ```
-@article{Bardozzo2022elegans,
-title = {Elegans-AI: how the connectome of a living organism could model artificial neural networks.},
+@article{BARDOZZO2024127598,
+title = {Elegans-AI: How the connectome of a living organism could model artificial neural networks},
 journal = {Neurocomputing},
-pages = {-},
+volume = {584},
+pages = {127598},
 year = {2024},
-issn = {-},
-doi = {-},
-url = {-},
-author = {Francesco Bardozzo and Andrea Terlizzi and Claudio Simoncini and Pietro Liò and Roberto Tagliaferri}
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2024.127598},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231224003692},
+author = {Francesco Bardozzo and Andrea Terlizzi and Claudio Simoncini and Pietro Lió and Roberto Tagliaferri}
 }
 ```
