@@ -15,8 +15,9 @@ This paper introduces Elegans-AI models, a class of neural networks that leverag
 
 **Source Code Availability**
 
-The Tensorflow/Keras or Pytorch code is distributed under Apache License 2.0 for research collaborations or R&D business partnerships with our research group.
+The Pytorch code will be distributed under Apache License 2.0.
 If you are interested follow the [Request form](https://forms.gle/N2aKJN6HDzg5eLQa7).
+
 
 
 
