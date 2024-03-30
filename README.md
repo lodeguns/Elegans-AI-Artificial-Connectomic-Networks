@@ -15,8 +15,8 @@ This paper introduces Elegans-AI models, a class of neural networks that leverag
 
 **Source Code Availability**
 
-The Pytorch code will be distributed under Apache License 2.0.
-If you are interested follow the [Request form](https://forms.gle/N2aKJN6HDzg5eLQa7).
+The Pytorch code will be distributed in this repository under Apache License 2.0.
+If you are interested in research collaborations follow the [Request form](https://forms.gle/N2aKJN6HDzg5eLQa7).
 
 
 
