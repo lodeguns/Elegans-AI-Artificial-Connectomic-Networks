@@ -24,7 +24,9 @@ The source code that is distributed in this repository is under Apache Licence 2
  
 
 **Additional Code Requests**
+
 If you are interested in research collaborations follow the [Request form](https://forms.gle/N2aKJN6HDzg5eLQa7).
+
 The Pytorch code will be distributed in this repository under Apache License 2.0.
  
 
