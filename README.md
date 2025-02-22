@@ -16,7 +16,7 @@ This paper introduces Elegans-AI models, a class of neural networks that leverag
 **Source Code Availability**
 If you use this code you must cite our paper.
 [Here the Tensorflow Drive with code, weights and logs](https://drive.google.com/drive/folders/1oT3xghtkeap9c4LG3PtuAshs243D5IxV?usp=sharing)
-The source code distributed in this GitHub is under Apache Licence 2.0.
+The source code distributed in this repository is under Apache Licence 2.0.
 
 
 **Additional Code Requests**
