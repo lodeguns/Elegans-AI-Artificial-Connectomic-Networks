@@ -20,6 +20,9 @@ This paper introduces Elegans-AI models, a class of neural networks that leverag
 If you use this code you must cite our paper.
 
 [Here the Tensorflow Drive with code, weights and logs](https://drive.google.com/drive/folders/1oT3xghtkeap9c4LG3PtuAshs243D5IxV?usp=sharing)
+
+The drive includes a Python model (compatible with Python >3.x) developed using the Keras API on TensorFlow 2.6.1. Within the repository, you will also find comprehensive server-side logs that detail the training and validation processes on an epoch-by-epoch basis. A consolidated summary (logs.csv) tabulates key performance metrics, specifically loss and accuracy for both training and validation datasets. Please note that the scripts provided are optimized for Linux Ubuntu systems (version 18 or later), and compatibility issues have been identified on Windows platforms. Additionally, the repository features the ConnectomeReader.py script, designed to parse GraphML files that encode the structural data of the C. elegans connectome, as well as connectomes generated via various simulation techniques. 
+
  
 The source code distributed in this repository is under Apache Licence 2.0.
  
