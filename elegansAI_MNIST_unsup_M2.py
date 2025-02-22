@@ -1,4 +1,4 @@
-
+# Elegans AI - Model 2 - Copyright Francesco Bardozzo - Source Code Distributed under Apache Licence 2.0'
 
 import igraph
 import keras.callbacks
