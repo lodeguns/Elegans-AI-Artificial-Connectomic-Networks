@@ -23,7 +23,7 @@ If you use this code you must cite our paper.
 The source code that is distributed in this repository is under Apache Licence 2.0.
  
 
-**Additional Code Requests**
+**Additional Code and Research Requests**
 
 If you are interested in research collaborations follow the [Request form](https://forms.gle/N2aKJN6HDzg5eLQa7).
 
