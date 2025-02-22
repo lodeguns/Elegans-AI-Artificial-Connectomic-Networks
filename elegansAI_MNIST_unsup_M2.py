@@ -1,3 +1,5 @@
+
+
 import igraph
 import keras.callbacks
 import tensorflow as tf
@@ -43,7 +45,7 @@ import graphviz
 #####################################################
 # Several stats
 # Define save directory
-parser = argparse.ArgumentParser(description='Elegans AI - Copyright Francesco Bardozzo')
+parser = argparse.ArgumentParser(description='Elegans AI - Copyright Francesco Bardozzo - Source Code Distributed under Apache Licence 2.0')
 parser.add_argument('--ratio',                     type=int,     help="Dense Layers times Ratio",   default = 1)
 parser.add_argument('--deep_neurons',              type=int,     help='unit neurons',               default = 512)
 parser.add_argument('--batch_size',                type=int,     help='batch size',                 default = 128)
