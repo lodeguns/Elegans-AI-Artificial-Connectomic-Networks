@@ -20,7 +20,7 @@ If you use this code you must cite our paper.
 
 [Here the Tensorflow Drive with code, weights and logs](https://drive.google.com/drive/folders/1oT3xghtkeap9c4LG3PtuAshs243D5IxV?usp=sharing)
  
-The source code that is distributed in this repository is under Apache Licence 2.0.
+The source code distributed in this repository is under Apache Licence 2.0.
  
 
 **Additional Code and Research Requests**
