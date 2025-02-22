@@ -23,10 +23,7 @@ If you use this code you must cite our paper.
 The source code distributed in this repository is under Apache Licence 2.0.
  
 
-**Additional Code and Research Requests**
-
-If you are interested in research collaborations follow the [Request form](https://forms.gle/N2aKJN6HDzg5eLQa7).
-
+**Additional Code**
 The Pytorch code will be distributed in this repository under Apache License 2.0.
  
 
