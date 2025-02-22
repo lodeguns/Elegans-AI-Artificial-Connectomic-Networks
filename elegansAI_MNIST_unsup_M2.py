@@ -850,19 +850,6 @@ class ElegansMnist280Recon:
         weights_path = "./mnist_autoenc/org_last_best.hdf5"
         model.load_weights(weights_path)
 
-        if subd=="org":
-            n=3
-            test_imgs = self.x_test[0:n,]#.reshape(28,28)
-            gen_imgs  = model.predict(self.x_test[0:n,])#.reshape(28,28)
-
-            for i in range(0, n, 1):
-                print(str(i))
-                img = np.asarray(gen_imgs[i]*255).reshape(28,28)
-                cv2.imwrite('./mnist_autoenc/'+str(i)+'gen_ch1.png', img)
-
-                img = np.asarray(test_imgs[i]*255).reshape(28,28)
-                cv2.imwrite('./mnist_autoenc/'+str(i)+'test_ch1.png', img)
-
         checkpoint_sm = save_to + "/" + subd + "_lb"
         print(checkpoint_sm)
         #dependencies = {
