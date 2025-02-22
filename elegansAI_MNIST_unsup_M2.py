@@ -1,6 +1,18 @@
 # Elegans AI - Model 2 - Copyright Prof. Francesco Bardozzo 
 # Source Code Distributed under Apache Licence 2.0
 # Contacts fbardozzo@unisa.it
+#@article{BARDOZZO2024127598,
+#title = {Elegans-AI: How the connectome of a living organism could model artificial neural networks},
+#journal = {Neurocomputing},
+#volume = {584},
+#pages = {127598},
+#year = {2024},
+#issn = {0925-2312},
+#doi = {https://doi.org/10.1016/j.neucom.2024.127598},
+#url = {https://www.sciencedirect.com/science/article/pii/S0925231224003692},
+#author = {Francesco Bardozzo and Andrea Terlizzi and Claudio Simoncini and Pietro Lió and Roberto Tagliaferri}
+#}
+
 
 import igraph
 import keras.callbacks
