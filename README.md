@@ -29,6 +29,7 @@ The source code distributed in this repository is under Apache Licence 2.0.
 
 **Additional Code:**
 The Pytorch code will be distributed in this repository under Apache License 2.0.
+Pytorch implementation with Elegans TN as classifier in our [NeuroneLab](https://github.com/NeuRoNeLab/connectome-livecell-cls) repository.
  
 
 **Connectome Data**
