@@ -13,6 +13,7 @@ This paper introduces Elegans-AI models, a class of neural networks that leverag
 <p align="center">
   <img width="700" height="350" src="./imgs/artificialelegans.png?raw=true">
 </p>
+
  
 **Source Code Availability**
  
@@ -27,6 +28,9 @@ The source code distributed in this repository is under Apache Licence 2.0.
 The Pytorch code will be distributed in this repository under Apache License 2.0.
  
 
+**Connectome Data**
+The connectome mapping of C.Elegans is provided by Neurodata.io
+[C.Elegans Connectome Data](https://neurodata.io/project/connectomes/)
 **How to cite this paper**
 
 ```
