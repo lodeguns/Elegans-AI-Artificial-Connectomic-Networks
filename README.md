@@ -54,4 +54,23 @@ doi = {https://doi.org/10.1016/j.neucom.2024.127598},
 url = {https://www.sciencedirect.com/science/article/pii/S0925231224003692},
 author = {Francesco Bardozzo and Andrea Terlizzi and Claudio Simoncini and Pietro Lió and Roberto Tagliaferri}
 }
+
+@inproceedings{bardozzo2024fp,
+  title={FP-Elegans M1: Feature Pyramid Reservoir Connectome Transformers and Multi-backbone Feature Extractors for MEDMNIST2D-V2},
+  author={Bardozzo, Francesco and Fiore, Pierpaolo and Li{\`o}, Pietro and Tagliaferri, Roberto},
+  booktitle={International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics},
+  pages={111--120},
+  year={2024},
+  organization={Springer}
+}
+
+@article{fiore192advancing,
+  title={Advancing label-free cell classification with connectome-inspired explainable models and a novel LIVECell-CLS dataset},
+  author={Fiore, Pierpaolo and Terlizzi, Andrea and Bardozzo, Francesco and Li{\`o}, Pietro and Tagliaferri, Roberto},
+  journal={Computers in biology and medicine},
+  volume={192},
+  number={Pt B},
+  pages={110274}
+}
+
 ```
